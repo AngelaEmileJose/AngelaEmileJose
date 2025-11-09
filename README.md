@@ -1,6 +1,5 @@
 Hi there! I'm **Angela** 👋, a final-year **Computer Science student** 🎓.
 
-I'm currently captivated by the world of **Agentic AI**, **RAG**, and **LLMs** (Large Language Models) 🤖—always building and trying out the newest tech! My drive is to tackle different projects and constantly explore new things in software development.
 
 When I'm not coding, you can find me in the kitchen, dreaming up new recipes 🧑‍🍳 and working toward my ultimate goal: owning a cozy café one day! ☕
 
